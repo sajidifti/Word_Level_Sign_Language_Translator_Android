@@ -1,5 +1,7 @@
 # Word_Level_Sign_Language_Translator_Android
 
+## INCOMPLETE README
+
 Welcome to the Word-level Sign Language Recognition project! This application is designed to recognize and translate sign language gestures into text. It utilizes four pre-trained models, each containing different vocabulary sizes (100, 300, 1000, and 2000 words). Users can choose the model that best fits their needs and easily translate sign language gestures into corresponding words.
 
 ## Features
